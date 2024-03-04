@@ -21,3 +21,8 @@ python3 -m site
 `REPL` is an acronym for Read-Eval-Print Loop. Developers use `REPL` Python to communicate with the Python Interpreter. You can input commands in the `REPL`  and see the results displayed immediately.
 
 To access it you can simply run `python3`
+
+
+# Shebang
+
+`!#` for Python scripts it is a good practice to start your script file with a shebang
