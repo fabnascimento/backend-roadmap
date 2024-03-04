@@ -25,4 +25,5 @@ To access it you can simply run `python3`
 
 # Shebang
 
-`!#` for Python scripts it is a good practice to start your script file with a shebang
+ It is a good practice to start your script file with a shebang as it will tell the operating system which interpreter to use to parse the script. Note that is valuable for any language your might be running your script, therefore it is not something particular to Python. [See more info here.](https://dev.to/meleu/what-the-shebang-really-does-and-why-it-s-so-important-in-your-shell-scripts-2755)
+ 
