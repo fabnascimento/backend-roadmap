@@ -144,3 +144,21 @@ set_a & set_b
 # Method 2:
 set_a.intersectio(set_b)
 ```
+
+Sets are multable
+
+```python
+a = set()
+a.add(1)
+a.add(2)
+print(a) # output {1, 2}
+a.remove(2)
+print(a) # output {1}
+```
+
+Sets can be converted to a list by doing:
+
+```python
+a = set([1, 2, 3])
+list(a)
+```
